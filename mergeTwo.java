@@ -23,6 +23,32 @@ class ListNode {
         this.next = null;
     }
 }
+
+class mergeIter implements Iterator<Integer> {
+    PriorityQueue<Integer> pq = new PriorityQueue<>();
+    public mergeIter(Iterator<Integer> i1, Iterator<Integer> i2) {
+        while (i1.hasNext()) {
+            pq.offer(i1.next());
+        }
+        while (i2.hasNext()) {
+            pq.offer(i2.next());
+        }
+    }
+    @Override
+    public Integer next() {
+        if (hasNext()) {
+            return pq.poll();
+        } else {
+            return null;
+        }
+    }
+    @Override
+    public boolean hasNext(){
+        return !pq.isEmpty();
+    }
+
+}
+
 class mergeTwo {
     public static void main(String[] args) {
         mergeTwo sol = new mergeTwo();
@@ -30,7 +56,13 @@ class mergeTwo {
         int[] nums2 = {0,5,6};
         int[] nums3 = {4,5,6,7};
         int[][] arrays = {{1,3,5,7},{2,4,6},{0,8,9,10,11}};
-        System.out.print(Arrays.toString(sol.mergeKArrays(arrays)));
+        List<Integer> list1 = new ArrayList<>(Arrays.asList(1, 2, 5));
+        List<Integer> list2 = new ArrayList<>(Arrays.asList(0, 3, 4));
+        mergeIter iter = new mergeIter(list1.iterator(), list2.iterator());
+        //System.out.print(Arrays.toString(sol.mergeKArrays(arrays)));
+        while (iter.hasNext()) {
+            System.out.print(iter.next());
+        }
     }
     public void merge(int[] nums1, int a, int[] nums2, int b) {
         while (a >= 1 && b >= 1) {
