@@ -27,6 +27,7 @@ class addInt {
             res = res.next;
         }
     }
+    //正序
     public String addBinary(String s1, String s2) {
         if (s1 == null && s2 == null) return null;
         StringBuilder sb = new StringBuilder();
