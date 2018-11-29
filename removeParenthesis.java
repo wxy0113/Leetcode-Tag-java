@@ -12,6 +12,8 @@ class removeParenthesis {
         removeParenthesis sol = new removeParenthesis();
         System.out.print(sol.remove("((((()))"));
     }
+
+    // Stack
     public String remove(String str) {
         Stack<Integer> stack = new Stack<>();
         char[] cs = str.toCharArray();
@@ -32,6 +34,8 @@ class removeParenthesis {
         }
         return new String(cs);
     }
+
+    // Two scan
     public String remove2(String str) {
         char[] cs = str.toCharArray();
         int left = 0, right = 0;
@@ -60,5 +64,46 @@ class removeParenthesis {
             }
         }
         return new String(cs);
+    }
+
+    // DFS output all cases
+    public List<String> removeInvalidParentheses(String s) {
+        List<String> res = new ArrayList<>();
+        int[] count = countLeftRight(s);
+        dfs(res, s, count[0], count[1], 0);
+        return res;
+    }
+    public void dfs(List<String> res, String s, int left, int right, int index) {
+        if (left == 0 && right == 0 && isValid(s)) {
+            res.add(s);
+            return;
+        }
+        for (int i = index; i < s.length(); i++) {
+            if (i > index && s.charAt(i) == s.charAt(i-1)) continue;
+            if (s.charAt(i) == '(') {
+                dfs(res, s.substring(0,i)+s.substring(i+1), left-1, right, i);
+            }
+            if (s.charAt(i) == ')') {
+                dfs(res, s.substring(0,i)+s.substring(i+1), left, right-1, i);
+            }
+        }
+    }
+    public int[] countLeftRight(String s) {
+        int[] res = new int[2];
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') res[0]++;
+            if (s.charAt(i) == ')') {
+                if (res[0] != 0) {
+                    res[0]--;
+                } else {
+                    res[1]++;
+                }
+            }
+        }
+        return res;
+    }
+    public boolean isValid(String s) {
+        int[] count = countLeftRight(s);
+        return count[0] == 0 && count[1] == 0;
     }
 }
