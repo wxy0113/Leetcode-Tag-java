@@ -38,7 +38,7 @@ class Solution {
         return res;
     }
     // Follow up 1: -1 means drain water
-    public int trapDrain1(int[] height) {
+      public static int trapDrain1(int[] height) {
         if (height == null || height.length <= 2) return 0;
         int leftMost = height[0], rightMost = height[height.length-1];
         int left = 0, right = height.length-1;
@@ -52,10 +52,11 @@ class Solution {
                     leftMost = 0;
                     left++;
                 } else {
-                    res += leftMost - height[left++];
+                    res += leftMost - height[left];
+                    llast += leftMost - height[left++];
                 }
-                if (leftMost < height[left]) {
-                    llast = res;
+                if (leftMost <= height[left]) {
+                    llast = 0;
                     leftMost = height[left];
                 }
             } else {
@@ -65,10 +66,11 @@ class Solution {
                     rightMost = 0;
                     right--;
                 } else {
-                    res += rightMost - height[right--];
+                    res += rightMost - height[right];
+                  rlast = rightMost - height[right--];
                 }
                 if (rightMost < height[right]) {
-                    rlast = res;
+                    rlast = 0;
                     rightMost = height[right];
                 }
             }
