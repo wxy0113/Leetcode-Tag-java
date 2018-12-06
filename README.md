@@ -50,7 +50,7 @@ Solutions to LeetCode
 47. [Valid Number - 65](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/validNumber.java)  
 48. [Wildcard Matching - 44](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/wildcardMatch.java)  
 49. [Longest Substring with At Least K Repeating Characters - 395-3](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/longestKRepeat.java)  
-50. [Monotonic Array - 896](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/monotonicArray.java)  
+50. [Monotonic Array - 896](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/monotonicArray.java)    
 51. [Random Pick Index - 398](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/randomPick.java)  
 52. [Word Break - 139-140](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/wordBreak.java)  
 53. [Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/reverseList.java)  
