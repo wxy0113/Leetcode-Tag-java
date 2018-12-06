@@ -53,5 +53,6 @@ Solutions to LeetCode
 50. [Monotonic Array - 896](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/monotonicArray.java)  
 51. [Random Pick Index - 398](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/randomPick.java)  
 52. [Word Break - 139-140](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/wordBreak.java)  
-53. [Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/reverseList.java)
+53. [Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/reverseList.java)  
+54. [Single Number - 136-137-260](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/singleNum.java)
 
