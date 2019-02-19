@@ -54,5 +54,7 @@ Solutions to LeetCode
 51. [Random Pick Index - 398](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/randomPick.java)  
 52. [Word Break - 139-140](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/wordBreak.java)  
 53. [Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/reverseList.java)  
-54. [Single Number - 136-137-260](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/singleNum.java)
+54. [Single Number - 136-137-260](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/singleNum.java)  
+55. [Amazon - Longest Palindromic Substring](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestPalinSub.java)  
+56. [Amazon - Most Common Word](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/mostCommonWord.java)
 
