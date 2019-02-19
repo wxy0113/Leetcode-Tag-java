@@ -57,5 +57,6 @@ Solutions to LeetCode
 54. [Single Number - 136-137-260](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/singleNum.java)  
 55. [Amazon - Longest Palindromic Substring](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestPalinSub.java)  
 56. [Amazon - Most Common Word](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/mostCommonWord.java)  
-57. [Amazon - K-Substring with K different characters](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/KSubstring.java)
+57. [Amazon - K-Substring with K different characters](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/KSubstring.java)  
+58. [Amazon - High Five](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/highFive.java)
 
