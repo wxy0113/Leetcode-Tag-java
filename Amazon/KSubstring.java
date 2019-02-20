@@ -11,6 +11,8 @@ class KSubstring {
   public static void main(String[] args) {
     System.out.print(KSubstring("abcc", 3));
   }
+  
+  // 长度为K
   public static int KSubstring(String stringIn, int K) {
     if (K <= 0 || stringIn == null || stringIn.length() == 0) return 0;
     int[] cnt = new int[256];
@@ -36,5 +38,29 @@ class KSubstring {
     System.out.println(list);
     
     return set.size();
+  }
+  
+  // 长度不限
+  public static int KSubstring2(String stringIn, int K) {
+    if (stringIn == null || stringIn.length() == 0 || K <= 0) return 0;
+    
+    Set<Character> set = new HashSet<>();
+    Set<String> str = new HashSet<>();
+    for (int i = 0; i < stringIn.length(); i++) {
+      set.clear();
+      int cnt = 0;
+      for (int j = i; j < stringIn.length(); j++) {
+        if (!set.contains(stringIn.charAt(j))) {
+          cnt++;
+          set.add(stringIn.charAt(j));
+        }
+        
+        if (cnt == K) {
+          str.add(stringIn.substring(i, j+1));
+        }
+      }
+    }
+    System.out.println(str);
+    return str.size();
   }
 }

@@ -62,5 +62,6 @@ Solutions to LeetCode
 59. [Amazon - Integer Replacement](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/integerReplacement.java)  
 60. [Amazon - Sort Stack using Stack](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/sortStack.java)  
 61. [Amazon - Two Sum Closest](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/twoSumClosest.java)  
-62. [Amazon - SubTree With Max Average](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maxAvgSubtree.java)
+62. [Amazon - SubTree With Max Average](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maxAvgSubtree.java)  
+63. [Amazon - MST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/MST.java)
 
