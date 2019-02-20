@@ -58,5 +58,9 @@ Solutions to LeetCode
 55. [Amazon - Longest Palindromic Substring](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestPalinSub.java)  
 56. [Amazon - Most Common Word](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/mostCommonWord.java)  
 57. [Amazon - K-Substring with K different characters](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/KSubstring.java)  
-58. [Amazon - High Five](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/highFive.java)
+58. [Amazon - High Five](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/highFive.java)  
+59. [Amazon - Integer Replacement](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/integerReplacement.java)  
+60. [Amazon - Sort Stack using Stack](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/sortStack.java)  
+61. [Amazon - Two Sum Closest](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/twoSumClosest.java)  
+62. [Amazon - SubTree With Max Average](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maxAvgSubtree.java)
 
