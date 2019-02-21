@@ -8,4 +8,6 @@
 7. [Amazon - Two Sum Closest](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/twoSumClosest.java)  
 8. [Amazon - K Closest Points](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/kNearestPoint.java)  
 9. [Amazon - SubTree With Max Average](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maxAvgSubtree.java)  
-10. [Amazon - MST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/MST.java)
+10. [Amazon - MST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/MST.java)  
+11. [Amazon - Maze 2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maze2.java)  
+12. [Amazon - Maximum Minimum Path](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maxMinPath.java)
