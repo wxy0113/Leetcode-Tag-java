@@ -65,5 +65,9 @@ Solutions to LeetCode
 62. [Amazon - SubTree With Max Average](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maxAvgSubtree.java)  
 63. [Amazon - MST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/MST.java)  
 64. [Amazon - Maze 2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maze2.java)  
-65. [Amazon - Maximum Minimum Path](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maxMinPath.java)
+65. [Amazon - Maximum Minimum Path](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/maxMinPath.java)  
+66. [Amazon - Remove Obstacle](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/removeObstacle.java)  
+67. [Amazon - Find Max Pair](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findPair.java)  
+68. [Amazon - Movies in the filght](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/movies.java)  
+69. [Amazon - ReOrder Logs File](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reorderLog.java)
 
