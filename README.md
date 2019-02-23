@@ -70,5 +70,6 @@ Solutions to LeetCode
 67. [Amazon - Find Max Pair](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findPair.java)  
 68. [Amazon - Movies in the filght](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/movies.java)  
 69. [Amazon - ReOrder Logs File](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reorderLog.java)  
-70. [Amazon - Sort Queue without extra space](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/sortQueue.java)
+70. [Amazon - Sort Queue without extra space](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/sortQueue.java)  
+71. [Amazon - Count Flash Times](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/countFlash.java)
 

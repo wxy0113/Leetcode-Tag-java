@@ -15,4 +15,5 @@
 14. [Amazon - Find Max Pair](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findPair.java)  
 15. [Amazon - Movies in the filght](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/movies.java)  
 16. [Amazon - ReOrder Logs File](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reorderLog.java)  
-17. [Amazon - Sort Queue without extra space](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/sortQueue.java)
+17. [Amazon - Sort Queue without extra space](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/sortQueue.java)  
+18. [Amazon - Count Flash Times](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/countFlash.java)
