@@ -1,4 +1,5 @@
 # Amazon-Tag-Java Solutoins  
+## Index  
 1. [Amazon - Longest Palindromic Substring](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestPalinSub.java)  
 2. [Amazon - Most Common Word](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/mostCommonWord.java)  
 3. [Amazon - K-Substring with K distinct characters](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/KSubstring.java)  
@@ -16,4 +17,11 @@
 15. [Amazon - Movies in the filght](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/movies.java)  
 16. [Amazon - ReOrder Logs File](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reorderLog.java)  
 17. [Amazon - Sort Queue without extra space](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/sortQueue.java)  
-18. [Amazon - Count Flash Times](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/countFlash.java)
+18. [Amazon - Count Flash Times](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/countFlash.java)  
+19. [Amazon - Design Queue](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/queue.java)  
+20. [Amazon - Longest Repeating Substring](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestRepeatingSubstring.java)  
+21. [Amazon - First Non-repeat Character](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/firstNonrepeatChar.java)  
+22. [Amazon - Design a HashMap](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designHashMap.java)  
+23. [Amazon - Is String Combined by other two strings(no order)](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/isCombine.java)  
+24. [Amazon - Jump Game](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/jumpGame.java)  
+25. [Amazon - Design circular queue](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designQueue.java)

@@ -71,5 +71,12 @@ Solutions to LeetCode
 68. [Amazon - Movies in the filght](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/movies.java)  
 69. [Amazon - ReOrder Logs File](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reorderLog.java)  
 70. [Amazon - Sort Queue without extra space](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/sortQueue.java)  
-71. [Amazon - Count Flash Times](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/countFlash.java)
+71. [Amazon - Count Flash Times](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/countFlash.java)  
+72. [Amazon - Design Queue](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/queue.java)  
+73. [Amazon - Longest Repeating Substring](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestRepeatingSubstring.java)  
+74. [Amazon - First Non-repeat Character](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/firstNonrepeatChar.java)  
+75. [Amazon - Design a HashMap](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designHashMap.java)  
+76. [Amazon - Is String Combined by other two strings(no order)](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/isCombine.java)  
+77. [Amazon - Jump Game](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/jumpGame.java)  
+78. [Amazon - Design circular queue](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designQueue.java)
 
