@@ -78,5 +78,9 @@ Solutions to LeetCode
 75. [Amazon - Design a HashMap](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designHashMap.java)  
 76. [Amazon - Is String Combined by other two strings(no order)](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/isCombine.java)  
 77. [Amazon - Jump Game](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/jumpGame.java)  
-78. [Amazon - Design circular queue](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designQueue.java)
+78. [Amazon - Design circular queue](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designQueue.java)  
+79. [Amazon - Kth Smallest Node in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/kSmallBST.java)  
+80. [Amazon - Longest Turbulent Subarray](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/turbulent.java)  
+81. [Amazon - Find Median from Data Stream - 295](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findMedianStream.java)  
+82. [Amazon - Most Buy 3 Items](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/mostBuyItem.java)
 
