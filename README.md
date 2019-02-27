@@ -82,5 +82,9 @@ Solutions to LeetCode
 79. [Amazon - Kth Smallest Node in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/kSmallBST.java)  
 80. [Amazon - Longest Turbulent Subarray](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/turbulent.java)  
 81. [Amazon - Find Median from Data Stream - 295](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findMedianStream.java)  
-82. [Amazon - Most Buy 3 Items](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/mostBuyItem.java)
+82. [Amazon - Most Buy 3 Items](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/mostBuyItem.java)  
+83. [Amazon - Min Stack](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/minStack.java)  
+84. [Amazon - Heapify and Heap Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/heapSort.java)  
+85. [Amazon - Add Two Numbers 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/addTwo.java)  
+86. [Amazon - Shortest Word Distance 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/shortestDistance.java)
 
