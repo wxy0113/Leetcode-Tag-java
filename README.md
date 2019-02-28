@@ -52,7 +52,7 @@ Solutions to LeetCode
 49. [Longest Substring with At Least K Repeating Characters - 395-3](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/longestKRepeat.java)  
 50. [Monotonic Array - 896](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/monotonicArray.java)    
 51. [Random Pick Index - 398](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/randomPick.java)  
-52. [Word Break - 139-140](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/wordBreak.java)  
+52. [Amazon - Word Break - 139-140](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/wordBreak.java)  
 53. [Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/reverseList.java)  
 54. [Single Number - 136-137-260](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/FaceBook/singleNum.java)  
 55. [Amazon - Longest Palindromic Substring](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestPalinSub.java)  
@@ -86,5 +86,6 @@ Solutions to LeetCode
 83. [Amazon - Min Stack](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/minStack.java)  
 84. [Amazon - Heapify and Heap Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/heapSort.java)  
 85. [Amazon - Add Two Numbers 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/addTwo.java)  
-86. [Amazon - Shortest Word Distance 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/shortestDistance.java)
+86. [Amazon - Shortest Word Distance 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/shortestDistance.java)  
+87. [Amazon - OOD - Design Calender](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designCalender.java)
 

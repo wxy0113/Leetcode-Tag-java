@@ -54,7 +54,8 @@ class Solution {
         return dp[len];
     }
 
-    // Follow up: word break2 ouput all possible results HashMap
+    // Follow up: word break2 ouput all possible results 
+    // HashMap: dfs + memory
     public List<String> wordBreak2(String s, List<String> wordDict) {
         Map<String, List<String>> map = new HashMap<>();
         return helper(map, s, wordDict);
@@ -86,6 +87,7 @@ class Solution {
     }
 
     // Follow up: find minimum break
+    // Dp
     public int wordBreak3(String s, List<String> wordDict) {
         if (s == null || s.length() == 0) {
             return -1;

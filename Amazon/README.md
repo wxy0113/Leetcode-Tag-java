@@ -32,4 +32,6 @@
 30. [Amazon - Min Stack](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/minStack.java)  
 31. [Amazon - Heapify and Heap Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/heapSort.java)  
 32. [Amazon - Add Two Numbers 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/addTwo.java)  
-33. [Amazon - Shortest Word Distance 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/shortestDistance.java)
+33. [Amazon - Shortest Word Distance 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/shortestDistance.java)  
+34. [Amazon - Word Break - 139-140](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/wordBreak.java)  
+35. [Amazon - OOD - Design Calender](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designCalender.java)

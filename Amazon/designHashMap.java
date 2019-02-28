@@ -79,6 +79,35 @@ class MyHashMap {
         return head;
     }
 }
+
+// 设计hashCode函数和equals函数
+class Person {
+  String name;
+  String id;
+  public Person(String myName, String myId) {
+    name = myName;
+    id = myId;
+  }
+  @Override
+  // 对于String，采用hashCode：
+  // s.charAt(0)*31^(n-1) + .. + s.charAt(n-1)
+  // 系统自带string.hashCode()
+  public int hashCode() {
+    if (id == null) return 0;
+    char[] cs = id.toCharArray();
+    int h = 0;
+    for (char c : cs) {
+      h = h*31+c;
+    }
+    return h;
+  }
+  @Override
+  // equals, 形参是Object形式，将它定义成具体class在进行比较
+  public boolean equals(Object obj) {
+    return ((Person)obj).id.equals(id);
+  }
+}
+
 class Solution {
   public static void main(String[] args) {
     MyHashMap hashMap = new MyHashMap();
