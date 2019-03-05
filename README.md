@@ -92,5 +92,6 @@ Solutions to LeetCode
 89. [Amazon - Course Schedule](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/courseSchedule.java)  
 90. [Amazon - Top K Frequent](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/topKFrequent.java)  
 91. [Amazon - Palindrome Pairs](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/palindromePair.java)  
-92. [Amazon - Three Sum - Four Sum](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/threeSum.java)
+92. [Amazon - Three Sum - Four Sum](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/threeSum.java)  
+93. [Amazon - Merge Sort - Quick Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/quickMerge.java)
 
