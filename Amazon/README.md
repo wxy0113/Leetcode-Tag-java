@@ -38,4 +38,5 @@
 36. [Amazon - Bottom view of a binary tree](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/bottomView.java)  
 37. [Amazon - Course Schedule](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/courseSchedule.java)  
 38. [Amazon - Top K Frequent](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/topKFrequent.java)  
-39. [Amazon - Palindrome Pairs](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/palindromePair.java)
+39. [Amazon - Palindrome Pairs](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/palindromePair.java)  
+40. [Amazon - Three Sum - Four Sum](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/threeSum.java)
