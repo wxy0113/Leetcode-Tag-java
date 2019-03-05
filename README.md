@@ -87,5 +87,9 @@ Solutions to LeetCode
 84. [Amazon - Heapify and Heap Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/heapSort.java)  
 85. [Amazon - Add Two Numbers 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/addTwo.java)  
 86. [Amazon - Shortest Word Distance 1&2](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/shortestDistance.java)  
-87. [Amazon - OOD - Design Calender](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designCalender.java)
+87. [Amazon - OOD - Design Calender](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/designCalender.java)  
+88. [Amazon - Bottom view of a binary tree](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/bottomView.java)  
+89. [Amazon - Course Schedule](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/courseSchedule.java)  
+90. [Amazon - Top K Frequent](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/topKFrequent.java)  
+91. [Amazon - Palindrome Pairs](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/palindromePair.java)
 
