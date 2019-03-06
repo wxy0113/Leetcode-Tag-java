@@ -40,4 +40,6 @@
 38. [Amazon - Top K Frequent](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/topKFrequent.java)  
 39. [Amazon - Palindrome Pairs](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/palindromePair.java)  
 40. [Amazon - Three Sum - Four Sum](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/threeSum.java)  
-41. [Amazon - Merge Sort - Quick Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/quickMerge.java)
+41. [Amazon - Merge Sort - Quick Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/quickMerge.java)  
+42. [Amazon - BST Add and Delete](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/BSTAddDelete.java)  
+43. [Amazon - Bomb Enemy](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/bombEnemy.java)
