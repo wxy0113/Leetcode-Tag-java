@@ -96,5 +96,6 @@ Solutions to LeetCode
 93. [Amazon - Merge Sort - Quick Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/quickMerge.java)  
 94. [Amazon - BST Add and Delete](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/BSTAddDelete.java)  
 95. [Amazon - Bomb Enemy](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/bombEnemy.java)  
-96. [Amazon - Find Leaves of Binary Tree](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findLeaves.java)
+96. [Amazon - Find Leaves of Binary Tree](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findLeaves.java)  
+97. [Amazon - Design a set of Poker Card](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/deckCard.java)
 

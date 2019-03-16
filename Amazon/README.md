@@ -43,4 +43,5 @@
 41. [Amazon - Merge Sort - Quick Sort](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/quickMerge.java)  
 42. [Amazon - BST Add and Delete](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/BSTAddDelete.java)  
 43. [Amazon - Bomb Enemy](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/bombEnemy.java)  
-44. [Amazon - Find Leaves of Binary Tree](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findLeaves.java)
+44. [Amazon - Find Leaves of Binary Tree](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findLeaves.java)  
+45. [Amazon - Design a set of Poker Card](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/deckCard.java)
