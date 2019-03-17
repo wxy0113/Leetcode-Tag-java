@@ -29,18 +29,39 @@ class Solution {
             System.out.println(string);
         }
     }
-    public static ListNode reverseList(ListNode head) {
-        if (head == null) return null;
+    
+    // iterative:
+    // pre(dummy)         head               tail
+    // o  --------------> o  --------------> o  ------->
+    public ListNode reverseList(ListNode head) {
+        if (head == null) return head;
+        
         ListNode dummy = new ListNode(0);
         dummy.next = head;
-        ListNode pre = dummy, tail = head;
+        
+        ListNode pre = dummy, tail = head.next;
+        
         while (tail != null) {
             head.next = tail.next;
             tail.next = pre.next;
             pre.next = tail;
             tail = head.next;
         }
+        
         return dummy.next;
+    }
+    
+    // recursive:
+    public ListNode reverseList(ListNode head) {
+        return helper(head, null);
+    }
+    public ListNode helper(ListNode head, ListNode tail) {
+        if (head == null) return tail;
+        
+        ListNode temp = head.next;
+        head.next = tail;
+        tail = temp;
+        return helper(tail, head);
     }
 
     public ListNode reverseBetween(ListNode head, int m, int n) {
