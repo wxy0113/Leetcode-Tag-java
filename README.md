@@ -98,5 +98,6 @@ Solutions to LeetCode
 95. [Amazon - Bomb Enemy](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/bombEnemy.java)  
 96. [Amazon - Find Leaves of Binary Tree](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/findLeaves.java)  
 97. [Amazon - Design a set of Poker Card](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/deckCard.java)  
-98. [Amazon - Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reverseList.java)
+98. [Amazon - Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reverseList.java)  
+99. [Amazon - Number of islands](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/islands.java)
 
