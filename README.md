@@ -101,5 +101,6 @@ Solutions to LeetCode
 98. [Amazon - Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reverseList.java)  
 99. [Amazon - Number of islands](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/islands.java)  
 100. [Amazon - LRU Cache - 146](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/LeastRecentUsed.java)  
-101. [Amazon - Calculator](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/calculator.java)
+101. [Amazon - Calculator](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/calculator.java)  
+102. [Amazon - Inorder Successor in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/inorderBST.java)
 

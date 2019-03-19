@@ -48,4 +48,5 @@
 46. [Amazon - Reverse Linked List - 206-92](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/reverseList.java)  
 47. [Amazon - Number of islands](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/islands.java)  
 48. [Amazon - LRU Cache - 146](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/LeastRecentUsed.java)  
-49. [Amazon - Calculator](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/calculator.java)
+49. [Amazon - Calculator](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/calculator.java)  
+50. [Amazon - Inorder Successor in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/inorderBST.java)
