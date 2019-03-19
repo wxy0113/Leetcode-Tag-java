@@ -102,5 +102,8 @@ Solutions to LeetCode
 99. [Amazon - Number of islands](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/islands.java)  
 100. [Amazon - LRU Cache - 146](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/LeastRecentUsed.java)  
 101. [Amazon - Calculator](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/calculator.java)  
-102. [Amazon - Inorder Successor in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/inorderBST.java)
+102. [Amazon - Inorder Successor in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/inorderBST.java)  
+103. [Amazon - Smallest Large Node in BST(not found) in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/closestBST.java)  
+104. [Amazon - Sliding Puzzle](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/slidingPuzzle.java)  
+105. [Amazon - Longest Valid Parentheses](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestParen.java)
 

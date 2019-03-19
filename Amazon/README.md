@@ -49,4 +49,7 @@
 47. [Amazon - Number of islands](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/islands.java)  
 48. [Amazon - LRU Cache - 146](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/LeastRecentUsed.java)  
 49. [Amazon - Calculator](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/calculator.java)  
-50. [Amazon - Inorder Successor in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/inorderBST.java)
+50. [Amazon - Inorder Successor in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/inorderBST.java)  
+51. [Amazon - Smallest Large Node in BST(not found) in BST](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/closestBST.java)  
+52. [Amazon - Sliding Puzzle](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/slidingPuzzle.java)  
+53. [Amazon - Longest Valid Parentheses](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Amazon/longestParen.java)
