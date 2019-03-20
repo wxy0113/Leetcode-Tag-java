@@ -24,13 +24,13 @@ class Solution {
       for (int j = 0; j < n; j++) {
         if (j == 0 || grid[i][j-1] == 'W') {
           row = 0;
-          for (int k = j; k < n; k++) {
+          for (int k = j; k < n && grid[i][k] != 'W'; k++) {
             row += (grid[i][k] == 'E' ? 1 : 0);
           }
         }  
         if (i == 0 || grid[i-1][j] == 'W') {
           col[j] = 0;
-          for (int k = i; k < m; k++) {
+          for (int k = i; k < m && grid[k][j] != 'W'; k++) {
             col[j] += (grid[k][j] == 'E' ? 1 : 0);
           }
         }
