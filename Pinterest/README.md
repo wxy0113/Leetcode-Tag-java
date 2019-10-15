@@ -6,4 +6,7 @@
 4. [Parents Relations / TreeNodes](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Pinterest/ParentRelations.java)  
 5. [Largest K Sum Pairs](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Pinterest/LargestKPairs.java)  
 6. [Find Rectangles in Matrix](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Pinterest/findRectangle.java)  
-7. [Basic Calculator](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Pinterest/BasicCalculator.java)
+7. [Basic Calculator](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Pinterest/BasicCalculator.java)  
+8. [Word search](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Pinterest/wordSearch.java)  
+9. [Student class and class prerequisite](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Pinterest/studentClass.java)  
+10. [Meeting rooms and merge intervals](https://github.com/wxy0113/Leetcode-Tag-java/blob/master/Pinterest/intervalMeetingRoom.java)
